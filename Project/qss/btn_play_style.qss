@@ -1,0 +1,8 @@
+QPushButton{
+	background-color: transparent;
+        image:url(":/image/play.svg");
+}
+QPushButton:hover{
+	border-radius:14px;
+        background-color: rgb(177, 177, 177);
+}

@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/circle.svg</file>
+        <file>image/close.svg</file>
+        <file>image/delete.svg</file>
+        <file>image/fold.svg</file>
+        <file>image/ic_public_pause.png</file>
+        <file>image/ic_public_play.png</file>
+        <file>image/ic_public_play_last.png</file>
+        <file>image/ic_public_play_next.png</file>
+        <file>image/list_filled.svg</file>
+        <file>image/minimize.svg</file>
+        <file>image/pause.svg</file>
+        <file>image/pic.jpg</file>
+        <file>image/pic2.jpg</file>
+        <file>image/pic3.jpg</file>
+        <file>image/pic4.jpg</file>
+        <file>image/play.svg</file>
+        <file>image/play_last.svg</file>
+        <file>image/play_next.svg</file>
+        <file>image/search.svg</file>
+        <file>image/search_hover.svg</file>
+        <file>image/switch_audio.svg</file>
+        <file>image/unfold.svg</file>
+        <file>image/volume_high.svg</file>
+        <file>image/volume_high2.svg</file>
+        <file>image/volume_high3.svg</file>
+        <file>image/volume_low.svg</file>
+        <file>image/volume_low3.svg</file>
+        <file>qss/btn_pause_style.qss</file>
+        <file>qss/btn_play_style.qss</file>
+        <file>qss/slider_pressed_style.qss</file>
+        <file>qss/slider_released_style.qss</file>
+        <file>image/switch_audio_earphone.svg</file>
+        <file>image/switch_audio_off.svg</file>
+        <file>image/earphone_unfilled.svg</file>
+        <file>image/switch_earphone_filled.svg</file>
+        <file>image/switch_earphone2.svg</file>
+        <file>image/switch_earphone3.svg</file>
+    </qresource>
+</RCC>
