@@ -1,9 +1,0 @@
-QPushButton{
-    background-color: transparent;
-    image:url(":/image/pause.svg");
-}
-
-QPushButton:hover{
-    border-radius:14px;
-    background-color: rgb(177, 177, 177);
-}
